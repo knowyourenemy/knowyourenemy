@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello!
 
-<!--
-**knowyourenemy/knowyourenemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="800" src="https://github.com/knowyourenemy/personal_website/blob/master/src/assets/images/screenshots/home-landscape.png" alt="Website home page    landscape">
 
-Here are some ideas to get you started:
+I am Aaditya, but most peoplpe call me Aadi. I am a first year student at Yale-NUS College (YNC), where I plan to major in Mathematical, Computational & Statistical Sciences (YNC). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The projects I have worked on include simple 2d arcade games I made using the LibGDX and Unity game engines, as well as a personal website using React.js.
+
+I believe that every person can benefit from the joy of building things, whether it is hardware, software, for commercial purposes, or just for fun. In YNC, I am currently the chairman of YNC_Hacks, which aims to spread the makers culture in the liberal arts environment of the college.
+
+In my free time, I like to play the electric guitar, and volunteer at a dog shelter in Singapore.
+
+I am always open to new opportunities! Feel free to contact me at aadipatwari@gmail.com or visit aadipatwari@gmail.com if you would like to find out more about me.
+
+
+
