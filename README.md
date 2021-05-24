@@ -10,7 +10,7 @@ I believe that every person can benefit from the joy of building things, whether
 
 In my free time, I like to play the electric guitar, and volunteer at a dog shelter in Singapore.
 
-I am always open to new opportunities! Feel free to contact me at aadipatwari@gmail.com or visit aadipatwari.com if you would like to find out more about me.
+I am always open to new opportunities! Feel free to contact me at aadipatwari@gmail.com or visit https://www.aadipatwari.com if you would like to find out more about me.
 
 
 
