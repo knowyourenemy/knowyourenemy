@@ -2,7 +2,7 @@
 
 <img width="800" src="https://github.com/knowyourenemy/personal_website/blob/master/src/assets/images/screenshots/home-landscape.png" alt="Website home page    landscape">
 
-I am Aaditya, but most peoplpe call me Aadi. I am a first year student at Yale-NUS College (YNC), where I plan to major in Mathematical, Computational & Statistical Sciences (YNC). 
+I am Aaditya, but most people call me Aadi. I am a first year student at Yale-NUS College (YNC), where I plan to major in Mathematical, Computational & Statistical Sciences (YNC). 
 
 The projects I have worked on include simple 2d arcade games I made using the LibGDX and Unity game engines, as well as a personal website using React.js.
 
