@@ -8,6 +8,6 @@ My coding journey began when I was 15. I coded a bunch of [2D arcade games](http
 
 I have also held leadership positions in many different clubs that aim to spread the Makers culture. Most notably, I was the president of Yale-NUS College Hacks from 2021 to 2022, during which I organised workshops and projects that provided members with technical skills such as HTML and 3D printing.
 
-Apart from coding, I am also passionate about animal welfare causes, which has driven me to volunteer in a local dog shelter, as well as foster 2 cats. I also run an [online aroid boutique](https://ploont.sg) with some friends. 
+Apart from coding, I am also passionate about animal welfare causes, which has driven me to volunteer in a local dog shelter, as well as foster 2 cats.
 
 Feel free to contact me at aadipatwari@gmail.com or visit my personal website at https://www.aadipatwari.com.
