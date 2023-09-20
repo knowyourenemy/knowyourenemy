@@ -1,8 +1,6 @@
 ## Hello!
 
-<img width="800" src="https://github.com/knowyourenemy/personal_website/blob/master/src/assets/images/screenshots/home-landscape.png" alt="Website home page    landscape">
-
-I am Aaditya, but most people call me Aadi. I am a junior at Yale-NUS College (YNC), where I am majoring in Mathematical, Computational & Statistical Sciences (MCS). 
+I am Aaditya, but most people call me Aadi. I am a senior at Yale-NUS College (YNC), where I am majoring in Mathematical, Computational & Statistical Sciences (MCS). 
 
 My coding journey began when I was 15. I coded a bunch of [2D arcade games](https://github.com/T-RektGames) using different game engines and published them on the Play Store. Since then, I have explored a variety of technologies and frameworks through personal projects and internships, including React JS, Django, and most recently, Express JS. My current interest lies in server-side development.
 
@@ -11,3 +9,5 @@ I have also held leadership positions in many different clubs that aim to spread
 Apart from coding, I am also passionate about animal welfare causes, which has driven me to volunteer in a local dog shelter, as well as foster 2 cats.
 
 Feel free to contact me at aadipatwari@gmail.com or visit my personal website at https://www.aadipatwari.com.
+
+## Latest Project: [Cats of SG](https://catsofsg.com)
