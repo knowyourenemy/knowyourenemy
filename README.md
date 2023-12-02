@@ -1,6 +1,6 @@
 ## Hello!
 
-I am Aaditya, but most people call me Aadi. I am a senior at Yale-NUS College (YNC), where I am majoring in Mathematical, Computational & Statistical Sciences (MCS). 
+I am a senior at Yale-NUS College (YNC), where I am majoring in Mathematical, Computational & Statistical Sciences (MCS). 
 
 My coding journey began when I was 15. I coded a bunch of [2D arcade games](https://github.com/T-RektGames) using different game engines and published them on the Play Store. Since then, I have explored a variety of technologies and frameworks through personal projects and internships. My current interest lies in server-side development.
 
