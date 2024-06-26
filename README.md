@@ -1,6 +1,4 @@
 ### Hello 👋
-I am a full-stack developer passionate about developing user-facing products.
-
 
 <a href="https://github.com/knowyourenemy?tab=repositories">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=knowyourenemy&show_icons=true&line_height=27&count_private=true&title_color=7C4DFF&text_color=ffffff&icon_color=2196F3&bg_color=030614&theme=synthwave&hide_border=true" alt="Aaditya's GitHub Stats" />
