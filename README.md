@@ -1,6 +1,3 @@
-## Latest Project: [Cats of SG](https://catsofsg.com)
-<img align="center" width=800 alt="Cats of Singapore" src="https://github.com/knowyourenemy/knowyourenemy/assets/12895417/b57b5f8b-39fb-45dd-891c-3a2b5a0a40c4">
-
 ## GitHub Stats
 
 <a href="https://github.com/leonardtng?tab=repositories">
